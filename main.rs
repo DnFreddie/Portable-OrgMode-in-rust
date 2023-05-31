@@ -66,10 +66,10 @@ fn help() {
     println!(
         "Usage:
   formatter   file name   [path]
-This program takes a file extension and path to a markdown file
-and produces a file with extracted code blocks from the given markdown.
+This program takes a file name and path to a markdown file.
+Then it  produces a file with extracted code blocks from the given markdown.
 Example:
-formatter -py test.md
+formatter test.py test.md
 "
     );
 
