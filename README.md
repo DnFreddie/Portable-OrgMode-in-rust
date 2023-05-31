@@ -9,9 +9,9 @@ It searches for *code block* insde the document extract the data(*also removes t
 # Future Plans 
 I want to create my small poratble command line OrgMode in markdown 
 ## TODOS:
-- Make program recognise in which program  the code block was wirtten 
+- Make program recognise in which program the code block was wirtten 
 - Enable me to run only specyfied blocks
-- Make s o user can specyfie the path were the  he want the path to be created 
+- Make so user can specyfie the path were he want the file to be created 
 
 
 
