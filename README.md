@@ -1,7 +1,7 @@
 # Portable-OrgMode-in-rust
 # Overviev 
 This is a simple program that format markdown
-Simalarly to  [OrgMode](https://orgmode.org/) in Emacs
+Simalarly to  [OrgMode](https://orgmode.org/) in Emacs\
 It searches for *code block* insde the document extract the data(*also removes the language tag*)
 ## Usage 
 1. U pass the **name of the new file** and **path to the file u want to be extracted**
