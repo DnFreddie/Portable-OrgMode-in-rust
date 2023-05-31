@@ -73,4 +73,4 @@ formatter test.py test.md
 "
     );
 
-    std::process::exit(1);
+    std::process::exit(1);}
